@@ -93,3 +93,6 @@
 // console.log(sumNums);
 // console.log(nums);
 // console.log(numbers);
+
+
+console.log('Masalalar');
